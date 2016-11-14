@@ -14,7 +14,7 @@ import com.example.aweather.model.City;
 public class MaoWeatherDB {
 
 
-    public static final int VERSION = 1;//数据库版本
+    public static final int VERSION = 1;//数据库版本，修改试验
     public static final String DB_NAME = "mao_weather";//数据库名称
 
     private static MaoWeatherDB sMaoWeatherDB;//单例对象
